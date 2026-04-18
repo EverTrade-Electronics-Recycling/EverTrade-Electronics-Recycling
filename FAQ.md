@@ -12,7 +12,7 @@ ITAD is the practice of responsibly managing retired IT equipment to maximize va
 
 ### Is EverTrade's electronics recycling free for businesses?
 
-Yes. EverTrade offers **free pickup** for businesses in the Houston metro area. For businesses outside Houston, contact us for shipping options and availability.
+Yes. EverTrade offers **free pickup** for businesses within 25 miles of our Sugar Land, TX location. For businesses outside our area, contact us — large-volume pickups may qualify for extended service.
 
 ### What items do you accept for recycling?
 
@@ -65,7 +65,7 @@ This document is essential for HIPAA, SOX, and other compliance audits.
 
 ### How quickly can you pick up our equipment?
 
-Most pickups in the Houston area can be scheduled within **1–3 business days**. Out-of-area pickups may take slightly longer.
+Most pickups within our 25-mile service area can be scheduled within **1–3 business days**.
 
 ### Do you provide bins or containers for collection?
 
@@ -73,7 +73,7 @@ Yes. For ongoing recycling programs, we can provide collection bins and containe
 
 ### What if we have equipment in multiple locations?
 
-We can arrange pickups from multiple locations. Contact us to coordinate.
+We can arrange pickups from multiple locations within our service area. Contact us to coordinate.
 
 ## Pricing & Value Recovery
 
@@ -89,4 +89,4 @@ Contact us for details. We accommodate businesses of all sizes, from a few items
 
 ---
 
-*EverTrade Electronics Recycling — Houston's trusted IT asset disposition partner.*
+*EverTrade Electronics Recycling — Sugar Land & Houston's trusted IT asset disposition partner.*

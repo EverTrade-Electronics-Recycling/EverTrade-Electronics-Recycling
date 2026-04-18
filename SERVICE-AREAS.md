@@ -1,84 +1,43 @@
 # Service Areas — EverTrade Electronics Recycling
 
-EverTrade provides certified electronics recycling and IT asset disposition services across Texas. All locations include free business pickup where available.
+EverTrade provides certified electronics recycling and IT asset disposition services within 25 miles of our Sugar Land, TX location. All pickups include full chain-of-custody documentation.
 
-## Houston, TX — Electronics Recycling
+## Sugar Land, TX — Home Base
 
-**Houston** is our home base. We offer free business pickup across the entire Houston metro area including:
+**Sugar Land** is where we're headquartered. Fast pickup, local service, and we know the area inside out.
 
-- Downtown Houston
-- The Galleria / Uptown
-- The Woodlands
-- Sugar Land
-- Katy
-- Pearland
-- League City / Clear Lake
-- Spring
-- Cypress
-- Missouri City
-
-**Houston IT asset disposition** services include server decommissioning, data center cleanouts, and corporate e-waste recycling for businesses of all sizes.
-
-[Schedule a Houston pickup →](https://evertradeelectronics.com)
-
-## Dallas–Fort Worth, TX — IT Equipment Disposal
-
-EverTrade serves the **Dallas–Fort Worth metroplex** with electronics recycling and ITAD services:
-
-- Dallas
-- Fort Worth
-- Plano
-- Frisco
-- Irving
-- Arlington
-- Richardson
-- Carrollton
-
-**Dallas IT equipment recycling** for data centers, offices, and enterprise environments. Free pickup available for qualifying businesses.
-
-[Schedule a DFW pickup →](https://evertradeelectronics.com)
-
-## Austin, TX — Server Recycling & Data Center Decommissioning
-
-**Austin** businesses can rely on EverTrade for:
-
-- Server room cleanouts
-- Data center decommissioning
-- Networking equipment recycling
-- Enterprise hardware disposal
-- Startup and tech company e-waste recycling
-
-[Schedule an Austin pickup →](https://evertradeelectronics.com)
-
-## San Antonio, TX — Business E-Waste Recycling
-
-**San Antonio** area businesses can access our full range of electronics recycling and IT asset disposition services, including certified data destruction and compliance documentation.
-
-[Schedule a San Antonio pickup →](https://evertradeelectronics.com)
-
-## Sugar Land, TX — Local IT Asset Recovery
-
-As a **Sugar Land** neighbor, EverTrade provides fast, local pickup for businesses in Sugar Land, Missouri City, and Richmond. Ideal for offices upgrading equipment or closing down.
+- First Colony
+- Town Center / Highway 6
+- Riverstone
+- Telfair
+- New Territory
 
 [Schedule a Sugar Land pickup →](https://evertradeelectronics.com)
 
-## Texas-Wide Electronics Recycling
+## Houston, TX — Electronics Recycling
 
-Don't see your city listed? EverTrade provides electronics recycling and IT asset disposition services throughout **all of Texas**. Contact us for shipping options or to arrange pickup outside our primary service areas.
+We serve the **Houston metro area** within our 25-mile service radius, including:
 
-- Lubbock
-- El Paso
-- Corpus Christi
-- Amarillo
-- Midland / Odessa
-- Waco
-- College Station
-- And all other Texas locations
+- Missouri City
+- Stafford
+- Pearland
+- Bellaire
+- West University Place
+- Katy (east)
+- Richmond / Rosenberg
 
-[Contact us for Texas-wide recycling →](https://evertradeelectronics.com)
+**Houston IT asset disposition** services include office cleanouts, server decommissioning, and corporate e-waste recycling.
+
+[Schedule a Houston pickup →](https://evertradeelectronics.com)
+
+## What About Areas Outside 25 Miles?
+
+For businesses outside our immediate service area, **contact us** — we may still be able to help depending on the volume and project scope. Data center decommissioning and large-scale pickups may qualify for extended service.
+
+[Contact us →](https://evertradeelectronics.com)
 
 ---
 
 ## SEO Keywords
 
-Electronics recycling Houston | IT asset disposition Texas | computer recycling Houston | server recycling Dallas | data center decommissioning Austin | e-waste recycling Texas | IT equipment disposal Houston | hard drive shredding Texas | data destruction Houston | certified electronics recycling | free business electronics pickup Houston | corporate e-waste recycling | ITAD Texas
+Electronics recycling Sugar Land TX | IT asset disposition Houston | computer recycling Houston | server recycling Houston TX | hard drive shredding Sugar Land | data destruction Houston | certified electronics recycling near me | free business electronics pickup Houston TX

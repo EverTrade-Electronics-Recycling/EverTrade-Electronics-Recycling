@@ -1,13 +1,13 @@
 # EverTrade Electronics Recycling
 
-> **Certified electronics recycling & IT asset disposition (ITAD) serving Houston, Dallas, Austin, and all of Texas.**
+> **Certified electronics recycling & IT asset disposition (ITAD) serving businesses within 25 miles of Sugar Land, TX.**
 
 [![Website](https://img.shields.io/badge/Website-evertradeelectronics.com-blue)](https://evertradeelectronics.com)
 [![Services](https://img.shields.io/badge/Services-Free_Pickup-green)](https://evertradeelectronics.com/services)
 
 ## 🏢 About EverTrade Electronics
 
-**EverTrade Electronics** is a Houston-based electronics recycling and IT asset disposition company. We help businesses, data centers, and organizations responsibly dispose of, recycle, and repurpose their IT equipment — with certified data destruction and full compliance documentation.
+**EverTrade Electronics** is a Sugar Land, TX–based electronics recycling and IT asset disposition company. We help businesses, data centers, and organizations responsibly dispose of, recycle, and repurpose their IT equipment — with certified data destruction and full compliance documentation.
 
 **Website:** [evertradeelectronics.com](https://evertradeelectronics.com)
 
@@ -19,20 +19,23 @@
 | **IT Asset Disposition (ITAD)** | Maximize value recovery from retired IT equipment through resale and redeployment |
 | **Data Destruction** | NIST 800-88 compliant data sanitization, degaussing, and physical shredding |
 | **Hard Drive Shredding** | On-site and off-site hard drive and SSD destruction with certificates of destruction |
-| **Free Business Pickup** | Complimentary pickup service for businesses in the Houston metro area |
+| **Free Business Pickup** | Complimentary pickup within 25 miles of Sugar Land, TX |
 | **Certificate of Recycling** | Full chain-of-custody documentation and certificates for compliance |
 
-## 📍 Service Areas
+## 📍 Service Area
 
-We serve businesses across Texas with free pickup in major metros:
+We serve businesses within **25 miles of Sugar Land, TX** with free pickup:
 
-- **Houston** — Electronics recycling, ITAD, and data destruction
-- **Dallas–Fort Worth** — IT equipment disposal and recycling
-- **Austin** — Server recycling and data center decommissioning
-- **San Antonio** — Business e-waste recycling
-- **Sugar Land** — Local pickup and IT asset recovery
-- **The Woodlands** — Corporate electronics recycling
-- **Katy** — Business IT disposal
+- **Sugar Land** — Headquarters, fastest pickup
+- **Houston** — ITAD, data destruction, office cleanouts
+- **Missouri City** — Business e-waste & IT recycling
+- **Stafford** — Corporate electronics recycling
+- **Pearland** — Office equipment disposal
+- **Bellaire** — IT asset recovery & pickup
+- **Katy (east)** — Server & networking recycling
+- **Richmond / Rosenberg** — Local e-waste pickup
+
+Outside our 25-mile radius? Contact us — large-volume pickups and data center decommissioning may qualify for extended service.
 
 [See full service area details →](SERVICE-AREAS.md)
 
@@ -64,7 +67,7 @@ We serve businesses across Texas with free pickup in major metros:
 <details>
 <summary><strong>Is electronics recycling free for businesses?</strong></summary>
 
-Yes! EverTrade offers free pickup for businesses in the Houston metro area. For businesses outside Houston, contact us for shipping options.
+Yes! EverTrade offers free pickup for businesses within 25 miles of our Sugar Land, TX location. 1–3 business day scheduling.
 </details>
 
 <details>
@@ -88,7 +91,7 @@ Our primary focus is business and enterprise IT asset disposition. However, cont
 <details>
 <summary><strong>How quickly can you pick up our equipment?</strong></summary>
 
-Most pickups in the Houston area can be scheduled within 1–3 business days. Contact us for availability.
+Most pickups can be scheduled within 1–3 business days within our 25-mile service area. Contact us for availability.
 </details>
 
 [See full FAQ →](FAQ.md)
@@ -98,8 +101,8 @@ Most pickups in the Houston area can be scheduled within 1–3 business days. Co
 - **Website:** [evertradeelectronics.com](https://evertradeelectronics.com)
 - **Phone:** (832) 777-5620
 - **Email:** Schedule through [evertradeelectronics.com](https://evertradeelectronics.com)
-- **Service Area:** Houston, Dallas, Austin, San Antonio, and all of Texas
+- **Service Area:** Within 25 miles of Sugar Land, TX
 
 ---
 
-*EverTrade Electronics Recycling — Certified IT asset disposition and electronics recycling for Texas businesses.*
+*EverTrade Electronics Recycling — Certified IT asset disposition and electronics recycling for Sugar Land & Houston area businesses.*
