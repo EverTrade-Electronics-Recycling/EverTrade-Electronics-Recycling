@@ -99,7 +99,7 @@ Most pickups can be scheduled within 1–3 business days within our 25-mile serv
 ## 📞 Contact
 
 - **Website:** [evertradeelectronics.com](https://evertradeelectronics.com)
-- **Phone:** (832) 777-5620
+- **Phone:** (832) 777-3002
 - **Email:** Schedule through [evertradeelectronics.com](https://evertradeelectronics.com)
 - **Service Area:** Within 25 miles of Sugar Land, TX
 

@@ -35,7 +35,7 @@ The GitHub Pages site includes:
 
 ## 📞 Contact
 
-- **Phone:** (832) 777-5620
+- **Phone:** (832) 777-3002
 - **Website:** [evertradeelectronics.com](https://evertradeelectronics.com)
 
 ---
