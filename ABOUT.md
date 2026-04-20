@@ -1,6 +1,6 @@
 # EverTrade Electronics Recycling
 
-> Certified electronics recycling & IT asset disposition serving businesses within 25 miles of Sugar Land, TX.
+> Documented electronics recycling & IT asset disposition serving businesses within 25 miles of Sugar Land, TX.
 
 ## 🔗 Links
 
@@ -40,4 +40,4 @@ The GitHub Pages site includes:
 
 ---
 
-*EverTrade Electronics Recycling — Certified IT asset disposition and electronics recycling for Sugar Land & Houston area businesses.*
+*EverTrade Electronics Recycling — Documented IT asset disposition and electronics recycling for Sugar Land & Houston area businesses.*

@@ -1,6 +1,6 @@
 # Service Areas — EverTrade Electronics Recycling
 
-EverTrade provides certified electronics recycling and IT asset disposition services within 25 miles of our Sugar Land, TX location. All pickups include full chain-of-custody documentation.
+EverTrade provides documented electronics recycling and IT asset disposition services within 25 miles of our Sugar Land, TX location. All pickups include full chain-of-custody documentation.
 
 ## Sugar Land, TX — Home Base
 
@@ -40,4 +40,4 @@ For businesses outside our immediate service area, **contact us** — we may sti
 
 ## SEO Keywords
 
-Electronics recycling Sugar Land TX | IT asset disposition Houston | computer recycling Houston | server recycling Houston TX | hard drive shredding Sugar Land | data destruction Houston | certified electronics recycling near me | free business electronics pickup Houston TX
+Electronics recycling Sugar Land TX | IT asset disposition Houston | computer recycling Houston | server recycling Houston TX | hard drive shredding Sugar Land | data destruction Houston | responsible electronics recycling near me | free business electronics pickup Houston TX

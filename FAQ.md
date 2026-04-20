@@ -8,7 +8,7 @@ Electronics recycling (e-waste recycling) is the process of recovering, repurpos
 
 ### What is IT Asset Disposition (ITAD)?
 
-ITAD is the practice of responsibly managing retired IT equipment to maximize value recovery while ensuring data security and environmental compliance. This can include resale, recycling, or certified destruction of IT assets.
+ITAD is the practice of responsibly managing retired IT equipment to maximize value recovery while ensuring data security and environmental compliance. This can include resale, recycling, or documented destruction of IT assets.
 
 ### Is EverTrade's electronics recycling free for businesses?
 

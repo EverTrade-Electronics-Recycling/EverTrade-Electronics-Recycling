@@ -1,13 +1,13 @@
 # EverTrade Electronics Recycling
 
-> **Certified electronics recycling & IT asset disposition (ITAD) serving businesses within 25 miles of Sugar Land, TX.**
+> **Documented electronics recycling & IT asset disposition (ITAD) serving businesses within 25 miles of Sugar Land, TX.**
 
 [![Website](https://img.shields.io/badge/Website-evertradeelectronics.com-blue)](https://evertradeelectronics.com)
 [![Services](https://img.shields.io/badge/Services-Free_Pickup-green)](https://evertradeelectronics.com/services)
 
 ## 🏢 About EverTrade Electronics
 
-**EverTrade Electronics** is a Sugar Land, TX–based electronics recycling and IT asset disposition company. We help businesses, data centers, and organizations responsibly dispose of, recycle, and repurpose their IT equipment — with certified data destruction and full compliance documentation.
+**EverTrade Electronics** is a Sugar Land, TX–based electronics recycling and IT asset disposition company. We help businesses, data centers, and organizations responsibly dispose of, recycle, and repurpose their IT equipment — with NIST 800-88 data destruction and full compliance documentation.
 
 **Website:** [evertradeelectronics.com](https://evertradeelectronics.com)
 
@@ -105,4 +105,4 @@ Most pickups can be scheduled within 1–3 business days within our 25-mile serv
 
 ---
 
-*EverTrade Electronics Recycling — Certified IT asset disposition and electronics recycling for Sugar Land & Houston area businesses.*
+*EverTrade Electronics Recycling — Documented IT asset disposition and electronics recycling for Sugar Land & Houston area businesses.*
