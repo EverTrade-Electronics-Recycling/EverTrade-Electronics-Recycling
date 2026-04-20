@@ -19,7 +19,7 @@
 ### Physical Destruction (NIST 800-88 Destroy)
 - Industrial shredding of hard drives and SSDs
 - On-site and off-site options available
-- Metal fragments recycled through R2-certified downstream
+- Metal fragments recycled through vetted downstream processors
 - Certificate of Destruction with serial number documentation
 
 ## Chain of Custody
